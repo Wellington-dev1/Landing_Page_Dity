@@ -5,13 +5,13 @@
 ## 📷 Demonstração
 
 <div>
-    <img src='MaterialMd/Landing_page_dirt.gif' />
+    <img src='MaterialMD/Landing_page_dirt.gif'>
 </div>
 
 ## 📷📷
 
 <div>
-    <img src='MaterialMd/ImgLanding.jpeg' />
+    <img src='MaterialMD/ImgLanding.jpeg' />
 </div>
 
 <br>
