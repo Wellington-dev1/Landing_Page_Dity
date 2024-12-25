@@ -2,6 +2,9 @@
 
 <br>
 
+## Para ver o projeto, clique aqui:<a href="https://dint-page.netlify.app/"> Landing Dint</a>
+
+
 ## 📷 Demonstração
 
 <div>
