@@ -1,4 +1,4 @@
-<h1 align='center'>Landing page Dirt</h1>
+<h1 align='center'>Landing page Dint</h1>
 
 <br>
 
