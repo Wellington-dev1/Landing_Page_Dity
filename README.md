@@ -1,8 +1,23 @@
-# React + Vite
+<h1 align='center'>Landing page Dirt</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br>
 
-Currently, two official plugins are available:
+## 📷 Demonstração
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div>
+    <img src='MaterialMd/Landing_page_dirt.gif' />
+</div>
+
+## 📷📷
+
+<div>
+    <img src='MaterialMd/ImgLanding.jpeg' />
+</div>
+
+<br>
+
+## 🚀 Tecnologias
+
+- [Styled Components](https://styled-components.com/)
+- [Icons8](https://icons8.com.br/)
+- [Vite](https://github.com/axios/axios)
